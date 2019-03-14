@@ -1,21 +1,64 @@
 {
-	"User": {
-		"Gender": "M",
-		"Email": null,
-		"MobileNo": null,
-		"NationalityCode": 113,
-		"Name": "عبدالمجيد حسن محمد الحسن",
-		"SocialIdType": 1,
-		"SocialId": 1066738814,
-		"SocialIdExpiryDateHijri": 14430305,
-		"GrandFatherName": "محمد",
-		"FamilyName": "الحسن",
-		"SocialIdIssuedPlaceCode": 1060,
-		"FirstName": "عبدالمجيد",
-		"BirthDateHijri": 14110104,
-		"FatherName": "حسن",
-		"SocialIdIssuedDateHijri": 14380306,
-		"SocialIdIssuedPlace": "أحوال مقر الوكالة بالرياض",
-		"NationalityName": "سعودي"
-	}
+	"ResponseObject": {
+		"List": [{
+				"RoleInCase": "المدعي",
+				"CaseCode": 8934,
+				"CourtName": "المحكمة العامة بالرياض",
+				"CaseStatus": "قيد النظر",
+				"CaseDate": "2007-03-14T00:00:00",
+				"CaseDateHijri": "24 صفر 1428 12:00 ص",
+				"CaseYear": 1428
+			},
+			{
+				"RoleInCase": "المدعي",
+				"CaseCode": 38113147,
+				"CourtName": "المحكمة العامة بالرياض",
+				"CaseStatus": "شطبت للمرة الأولى",
+				"CaseDate": "2016-11-01T11:28:00",
+				"CaseDateHijri": "01 صفر 1438 11:28 ص",
+				"CaseYear": 1438
+			},
+			{
+				"RoleInCase": "المدعي",
+				"CaseCode": 381008786,
+				"CourtName": "الدوائر  الجزئية بالمحكمة العامة بالرياض",
+				"CaseStatus": "قيد النظر",
+				"CaseDate": "2017-01-09T11:43:00",
+				"CaseDateHijri": "11 ربيع الثاني 1438 11:43 ص",
+				"CaseYear": 1438
+			},
+			{
+				"RoleInCase": "المدعي",
+				"CaseCode": 391058910,
+				"CourtName": "المحكمة العامة بمحافظة الخرج",
+				"CaseStatus": "قيد النظر",
+				"CaseDate": "2018-07-22T10:46:00",
+				"CaseDateHijri": "09 ذو القعدة 1439 10:46 ص",
+				"CaseYear": 1439
+			},
+			{
+				"RoleInCase": "المدعي",
+				"CaseCode": 391058903,
+				"CourtName": "المحكمة العامة بمحافظة الخرج",
+				"CaseStatus": "قيد النظر",
+				"CaseDate": "2018-07-22T10:44:00",
+				"CaseDateHijri": "09 ذو القعدة 1439 10:44 ص",
+				"CaseYear": 1439
+			},
+			{
+				"RoleInCase": "المدعي",
+				"CaseCode": 391058916,
+				"CourtName": "المحكمة العامة بمحافظة الخرج",
+				"CaseStatus": "قيد النظر",
+				"CaseDate": "2018-07-22T10:49:00",
+				"CaseDateHijri": "09 ذو القعدة 1439 10:49 ص",
+				"CaseYear": 1439
+			}
+		],
+		"TotalCount": 6,
+		"TotalPages": 1
+	},
+	"ResponseResult": true,
+	"ResponseMessage": null,
+	"StatusCode": 0
 }
