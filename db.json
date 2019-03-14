@@ -17,42 +17,6 @@
 				"CaseDate": "2016-11-01T11:28:00",
 				"CaseDateHijri": "01 صفر 1438 11:28 ص",
 				"CaseYear": 1438
-			},
-			{
-				"RoleInCase": "المدعي",
-				"CaseCode": 381008786,
-				"CourtName": "الدوائر  الجزئية بالمحكمة العامة بالرياض",
-				"CaseStatus": "قيد النظر",
-				"CaseDate": "2017-01-09T11:43:00",
-				"CaseDateHijri": "11 ربيع الثاني 1438 11:43 ص",
-				"CaseYear": 1438
-			},
-			{
-				"RoleInCase": "المدعي",
-				"CaseCode": 391058910,
-				"CourtName": "المحكمة العامة بمحافظة الخرج",
-				"CaseStatus": "قيد النظر",
-				"CaseDate": "2018-07-22T10:46:00",
-				"CaseDateHijri": "09 ذو القعدة 1439 10:46 ص",
-				"CaseYear": 1439
-			},
-			{
-				"RoleInCase": "المدعي",
-				"CaseCode": 391058903,
-				"CourtName": "المحكمة العامة بمحافظة الخرج",
-				"CaseStatus": "قيد النظر",
-				"CaseDate": "2018-07-22T10:44:00",
-				"CaseDateHijri": "09 ذو القعدة 1439 10:44 ص",
-				"CaseYear": 1439
-			},
-			{
-				"RoleInCase": "المدعي",
-				"CaseCode": 391058916,
-				"CourtName": "المحكمة العامة بمحافظة الخرج",
-				"CaseStatus": "قيد النظر",
-				"CaseDate": "2018-07-22T10:49:00",
-				"CaseDateHijri": "09 ذو القعدة 1439 10:49 ص",
-				"CaseYear": 1439
 			}
 		],
 		"TotalCount": 6,
