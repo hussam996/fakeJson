@@ -1,28 +1,61 @@
 {
-	"ResponseObject": {
-		"List": [{
-				"RoleInCase": "المدعي",
-				"CaseCode": 8935,
-				"CourtName": "المحكمة العامة بالرياض",
-				"CaseStatus": "قيد النظر",
-				"CaseDate": "2007-03-14T00:00:00",
-				"CaseDateHijri": "24 صفر 1428 12:00 ص",
-				"CaseYear": 1428
-			},
-			{
-				"RoleInCase": "المدعي",
-				"CaseCode": 38113147,
-				"CourtName": "المحكمة العامة بالرياض",
-				"CaseStatus": "شطبت للمرة الأولى",
-				"CaseDate": "2016-11-01T11:28:00",
-				"CaseDateHijri": "01 صفر 1438 11:28 ص",
-				"CaseYear": 1438
-			}
-		],
-		"TotalCount": 6,
-		"TotalPages": 1
-	},
-	"ResponseResult": true,
-	"ResponseMessage": null,
-	"StatusCode": 0
+    "result": {
+        "requestId": 9,
+        "evaluationItemCategories": [
+            {
+                "id": "08d93573-c586-4d0e-8b40-e9135638becf",
+                "code": "01",
+                "name": "اعمال الكهرباء",
+                "evaluationItems": [
+                    {
+                        "id": "08d93573-c5f4-46a7-8c1e-3be70d64eb3e",
+                        "code": "01",
+                        "name": "صب الاساسات",
+                        "isFilled": false,
+                        "options": []
+                    }
+                ]
+            },
+            {
+                "id": "08d93573-c5be-49c8-805d-28869a42f3c4",
+                "code": "02",
+                "name": "الأعمال الإنشائية",
+                "evaluationItems": [
+                    {
+                        "id": "08d95b0b-6b09-4b67-87bf-e0111043f02d",
+                        "code": "333-1-1",
+                        "name": "الواجهه الشمالية ",
+                        "isFilled": false,
+                        "options": []
+                    },
+                    {
+                        "id": "08d95b0b-7b4f-466e-8719-390b455a22f5",
+                        "code": "333-1-1",
+                        "name": "الواجهه الجنوبية",
+                        "isFilled": false,
+                        "options": []
+                    },
+                    {
+                        "id": "08d95b0b-8210-435e-83fe-a24ff14a3a58",
+                        "code": "333-1-1",
+                        "name": "الواجهه الغربية",
+                        "isFilled": false,
+                        "options": []
+                    },
+                    {
+                        "id": "08d95b0b-86e7-42be-8d7e-0b0976ed3463",
+                        "code": "333-1-1",
+                        "name": "الواجهه الشرقية",
+                        "isFilled": false,
+                        "options": []
+                    }
+                ]
+            }
+        ]
+    },
+    "targetUrl": null,
+    "success": true,
+    "error": null,
+    "unAuthorizedRequest": false,
+    "__abp": true
 }
